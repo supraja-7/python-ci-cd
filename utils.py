@@ -1,4 +1,3 @@
 def is_even_and_positive(num):
-
-    return not (num & 1) and num > 1
-    
+    print("hello")
+    return not (num & 1) and num > 0
